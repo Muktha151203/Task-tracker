@@ -26,3 +26,7 @@ Download or clone the repository
 Open index.html in your browser
 
 Start adding and managing your tasks
+### 🔗 Live Demo
+
+[Click here to view the live project](https://muktha151203.github.io/Task-tracker/)
+
